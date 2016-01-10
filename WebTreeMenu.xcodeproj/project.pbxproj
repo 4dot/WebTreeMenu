@@ -30,9 +30,9 @@
 		107301221C422DE40002D556 /* WebTreeMenu-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1073011F1C422DE40002D556 /* WebTreeMenu-Info.plist */; };
 		107301251C422E700002D556 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 107301231C422E700002D556 /* InfoPlist.strings */; };
 		107301281C422ED00002D556 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 107301261C422ED00002D556 /* Main.storyboard */; };
-		107301311C422FDE0002D556 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 1073012C1C422FDE0002D556 /* TFHpple.m */; };
-		107301321C422FDE0002D556 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 1073012E1C422FDE0002D556 /* TFHppleElement.m */; };
-		107301331C422FDE0002D556 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 107301301C422FDE0002D556 /* XPathQuery.m */; };
+		1073013B1C4234730002D556 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 107301361C4234730002D556 /* TFHpple.m */; };
+		1073013C1C4234730002D556 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 107301381C4234730002D556 /* TFHppleElement.m */; };
+		1073013D1C4234730002D556 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 1073013A1C4234730002D556 /* XPathQuery.m */; };
 		D394D7C4181868E800B32CDE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D394D7C3181868E800B32CDE /* Foundation.framework */; };
 		D394D7C6181868E800B32CDE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D394D7C5181868E800B32CDE /* CoreGraphics.framework */; };
 		D394D7C8181868E800B32CDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D394D7C7181868E800B32CDE /* UIKit.framework */; };
@@ -68,12 +68,12 @@
 		107301201C422DE40002D556 /* WebTreeMenu-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "WebTreeMenu-Prefix.pch"; path = "WebTreeMenu/WebTreeMenu-Prefix.pch"; sourceTree = SOURCE_ROOT; };
 		107301241C422E700002D556 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = WebTreeMenu/en.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
 		107301271C422ED00002D556 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = WebTreeMenu/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
-		1073012B1C422FDE0002D556 /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
-		1073012C1C422FDE0002D556 /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
-		1073012D1C422FDE0002D556 /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
-		1073012E1C422FDE0002D556 /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
-		1073012F1C422FDE0002D556 /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
-		107301301C422FDE0002D556 /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
+		107301351C4234730002D556 /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHpple.h; path = Pods/hpple/Pod/Classes/TFHpple.h; sourceTree = SOURCE_ROOT; };
+		107301361C4234730002D556 /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHpple.m; path = Pods/hpple/Pod/Classes/TFHpple.m; sourceTree = SOURCE_ROOT; };
+		107301371C4234730002D556 /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHppleElement.h; path = Pods/hpple/Pod/Classes/TFHppleElement.h; sourceTree = SOURCE_ROOT; };
+		107301381C4234730002D556 /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHppleElement.m; path = Pods/hpple/Pod/Classes/TFHppleElement.m; sourceTree = SOURCE_ROOT; };
+		107301391C4234730002D556 /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XPathQuery.h; path = Pods/hpple/Pod/Classes/XPathQuery.h; sourceTree = SOURCE_ROOT; };
+		1073013A1C4234730002D556 /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XPathQuery.m; path = Pods/hpple/Pod/Classes/XPathQuery.m; sourceTree = SOURCE_ROOT; };
 		D394D7C0181868E800B32CDE /* WebTreeMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebTreeMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D394D7C3181868E800B32CDE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D394D7C5181868E800B32CDE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -98,21 +98,22 @@
 		107301291C422FDE0002D556 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1073012A1C422FDE0002D556 /* Hpple */,
+				1073012A1C422FDE0002D556 /* hipple */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		1073012A1C422FDE0002D556 /* Hpple */ = {
+		1073012A1C422FDE0002D556 /* hipple */ = {
 			isa = PBXGroup;
 			children = (
-				1073012B1C422FDE0002D556 /* TFHpple.h */,
-				1073012C1C422FDE0002D556 /* TFHpple.m */,
-				1073012D1C422FDE0002D556 /* TFHppleElement.h */,
-				1073012E1C422FDE0002D556 /* TFHppleElement.m */,
-				1073012F1C422FDE0002D556 /* XPathQuery.h */,
-				107301301C422FDE0002D556 /* XPathQuery.m */,
+				107301351C4234730002D556 /* TFHpple.h */,
+				107301361C4234730002D556 /* TFHpple.m */,
+				107301371C4234730002D556 /* TFHppleElement.h */,
+				107301381C4234730002D556 /* TFHppleElement.m */,
+				107301391C4234730002D556 /* XPathQuery.h */,
+				1073013A1C4234730002D556 /* XPathQuery.m */,
 			);
+			name = hipple;
 			path = Hpple;
 			sourceTree = "<group>";
 		};
@@ -283,12 +284,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				107301321C422FDE0002D556 /* TFHppleElement.m in Sources */,
+				1073013C1C4234730002D556 /* TFHppleElement.m in Sources */,
 				107300F91C422D4D0002D556 /* ViewController.m in Sources */,
 				107300F71C422D4D0002D556 /* emTableViewCell.m in Sources */,
 				107300F51C422D4D0002D556 /* AppDelegate.m in Sources */,
-				107301331C422FDE0002D556 /* XPathQuery.m in Sources */,
-				107301311C422FDE0002D556 /* TFHpple.m in Sources */,
+				1073013D1C4234730002D556 /* XPathQuery.m in Sources */,
+				1073013B1C4234730002D556 /* TFHpple.m in Sources */,
 				107300F81C422D4D0002D556 /* splashScreen.m in Sources */,
 				107301211C422DE40002D556 /* main.m in Sources */,
 				107300F61C422D4D0002D556 /* emMenuList.m in Sources */,

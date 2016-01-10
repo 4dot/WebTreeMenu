@@ -1,0 +1,3 @@
+[submodule "Pods/hpple"]
+	path = Pods/hpple
+	url = https://github.com/topfunky/hpple.git

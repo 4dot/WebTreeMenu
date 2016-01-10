@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9B01A90912672076EC224064D4BF7F942F363DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : 0,
+    "A9B01A90912672076EC224064D4BF7F942F363DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12C116B2-8FF8-4392-B280-604A560EF387",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : "WebTreeMenu\/Pods\/hpple\/",
+    "A9B01A90912672076EC224064D4BF7F942F363DA" : "WebTreeMenu\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WebTreeMenu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WebTreeMenu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/4dot\/WebTreeMenu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9B01A90912672076EC224064D4BF7F942F363DA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/topfunky\/hpple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C98F34640CDAF8C591AEB91EEF768A6198C4416E"
+    }
+  ]
+}
