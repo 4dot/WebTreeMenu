@@ -11,6 +11,7 @@
 #import "emTableViewCell.h"
 #import "emMenuList.h"
 
+#warning This webpage is a test page. Please change to your webpage link.
 static NSString *HOMEPAGE = @"http://www.EmpireNailSupply.com";
 
 @interface ViewController ()
