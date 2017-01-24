@@ -9,8 +9,8 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12C116B2-8FF8-4392-B280-604A560EF387",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : "WebTreeMenu\/Pods\/hpple\/",
-    "A9B01A90912672076EC224064D4BF7F942F363DA" : "WebTreeMenu\/"
+    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : "WebTreeMenu.git\/Pods\/hpple\/",
+    "A9B01A90912672076EC224064D4BF7F942F363DA" : "WebTreeMenu.git\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "WebTreeMenu",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
